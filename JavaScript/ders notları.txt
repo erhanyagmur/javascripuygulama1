@@ -1,0 +1,12 @@
+javascript kodları script tag leri arasına yazılır.
+alert ile ekrana yazı yazarız.Uyarı kutusu ile..
+F12 tuşu ile consolo ekranına ulaştım.
+var ile değişken tanımlanır.
+Console ekranından erhan5 yazdı.Çünkü çift tırnak ve tek tırnak ile
+ekrana string ifade yazılır.
+prompt klavyeden değer ister.
+
+Şimdi bir uygulama yapalım. Klavyeden girilen sayının , klavyeden girilen mod a bölümünden kalanı alert'e yazdıralım.
+Klavyeden istenen değer string olduğundan parseInt ile nümerik hale getirip topladım.
+
+Kodları github a ekleyip link i video'nun altında paylaşırım...
